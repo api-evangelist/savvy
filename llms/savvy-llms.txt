@@ -1,0 +1,208 @@
+# Savvy Wealth
+
+> Savvy is a technology-driven, SEC-registered investment advisory firm (Savvy Advisors, Inc.) founded in 2021 and headquartered in New York, NY. The company combines licensed fiduciary financial advisors with proprietary technology — including Savvy Intelligence, an AI workspace for advisors — to deliver personalized wealth management for high-net-worth individuals and independent financial advisors. Savvy manages $5B+ in assets across 100+ advisors in 30+ U.S. locations.
+
+Savvy serves two distinct audiences: **clients** seeking personalized wealth management and **financial advisors** looking to join or build a practice on Savvy's platform. All advisors operate as fiduciaries — legally obligated to act in clients' best interests — and custody assets at Fidelity or Charles Schwab. The company is backed by Thrive Capital, Industry Ventures, Canvas Ventures, and Vestigo, among others.
+
+## For Clients
+
+- [Home](https://www.savvywealth.com/): Overview of Savvy's wealth management offering, value proposition, and how to get started
+- [Find an Advisor](https://www.savvywealth.com/advisors): Browse and connect with Savvy's network of 100+ fiduciary financial advisors
+- [How It Works](https://www.savvywealth.com/how-it-works): Step-by-step explanation of the client onboarding and advisory relationship
+- [Savvy Dashboard](https://www.savvywealth.com/savvy-dashboard): Client-facing technology platform for tracking net worth, investments, and financial plan progress
+- [P&G Employees](https://www.savvywealth.com/pg): Tailored financial planning and investment management for Procter & Gamble employees
+
+## Services
+
+- [Financial Planning](https://www.savvywealth.com/services/financial-planning): Customized financial plans built around each client's unique goals and circumstances
+- [Investment Management](https://www.savvywealth.com/services/savvy-wealth-investment-management): Tailored investment portfolios combining technology with advisor expertise
+- [Investment Services](https://www.savvywealth.com/services/investment-services): Strategic, data-driven investing across asset classes
+- [Direct Indexing](https://www.savvywealth.com/direct-indexing): Personalized separately managed accounts mirroring broad indexes with tax-loss harvesting and individual stock exclusions; suited for taxable accounts and concentrated positions
+- [Tax Optimization](https://www.savvywealth.com/services/tax-optimization): Strategic short- and long-term tax planning integrated with investment management
+- [Retirement Planning](https://www.savvywealth.com/services/financial-retirement-planning): Comprehensive planning to maintain lifestyle goals in retirement
+- [Trust & Estate Planning](https://www.savvywealth.com/services/trust-and-estate-planning-services-savvy): Complex strategies including CRTs, GRATs, and SLATs for high-net-worth wealth transfer
+- [Succession Planning](https://www.savvywealth.com/services/strategic-business-succession-planning): Business transition planning for owners and entrepreneurs
+- [Small Business Tax Planning](https://www.savvywealth.com/services/small-business-tax-planning): Tax optimization strategies tailored for business owners
+- [401(k) for Businesses](https://www.savvywealth.com/services/401-k-for-businesses): Retirement plan selection and implementation for business owners and their employees
+- [Education Planning](https://www.savvywealth.com/services/education-financial-planning): Tax-efficient funding strategies for educational expenses
+- [Alternative Investments](https://www.savvywealth.com/services/alternative-investment): Access to private equity, angel investing, and venture capital funds
+- [Foundations & Endowments](https://www.savvywealth.com/services/foundations-endowments): Specialized investment management and governance for charitable organizations
+
+## For Advisors
+
+- [Join Savvy (Advisors)](https://www.savvywealth.com/advisors): Overview of Savvy's advisor platform, value proposition for RIA owners and breakaway advisors, and how to explore a partnership
+- [Savvy Intelligence](https://www.savvywealth.com/savvy-intelligence): AI-powered advisor workspace that unifies client investment data, tax records, CRM notes, and planning assumptions into a single environment; enables real-time Roth conversion analysis, Social Security planning, and tax optimization via natural language; built with zero data retention and no model-training use of client data
+- [Demo / Get Started](https://www.savvywealth.com/demo): Book a demo to explore joining Savvy's advisor network
+
+## Company
+
+- [About](https://www.savvywealth.com/about): Company mission ("We help people make better financial decisions so they can live the life they aspire to live"), founding story, leadership team, and key facts; founded 2021 by Ritik Malhotra; SEC CRD #318493
+- [Careers](https://www.savvywealth.com/careers): Open positions across technology, advisory, operations, and marketing
+- [Press](https://www.savvywealth.com/press): Media coverage, press releases, and company announcements
+- [Events](https://www.savvywealth.com/advisors-events): Webinars and in-person events for advisors, including Savvy Intelligence open houses
+
+## Advisor Profiles
+
+- [Aaron Peloquin](https://www.savvywealth.com/advisor/aaron-peloquin): Advisor profile page for Aaron Peloquin.
+- [Aaron Wiegman](https://www.savvywealth.com/advisor/aaron-wiegman): Advisor profile page for Aaron Wiegman.
+- [Albert Pinedo](https://www.savvywealth.com/advisor/albert-pinedo): Advisor profile page for Albert Pinedo.
+- [Alex Barnes](https://www.savvywealth.com/advisor/alex-barnes): Advisor profile page for Alex Barnes.
+- [Allen Buckley](https://www.savvywealth.com/advisor/allen-buckley): Advisor profile page for Allen Buckley.
+- [Anderson Wozny](https://www.savvywealth.com/advisor/anderson-wozny): Advisor profile page for Anderson Wozny.
+- [Andrea Nolan](https://www.savvywealth.com/advisor/andrea-nolan): Advisor profile page for Andrea Nolan.
+- [Angelique Ayala](https://www.savvywealth.com/advisor/angelique-ayala): Advisor profile page for Angelique Ayala.
+- [Arynton Hardy](https://www.savvywealth.com/advisor/arynton-hardy): Advisor profile page for Arynton Hardy.
+- [Berkely Arrants](https://www.savvywealth.com/advisor/berkely-arrants): Advisor profile page for Berkely Arrants.
+- [Brad Morgan](https://www.savvywealth.com/advisor/brad-morgan): Advisor profile page for Brad Morgan.
+- [Brandon Mull](https://www.savvywealth.com/advisor/brandon-mull): Advisor profile page for Brandon Mull.
+- [Brian Boswell](https://www.savvywealth.com/advisor/brian-boswell): Advisor profile page for Brian Boswell.
+- [Brian Jellig](https://www.savvywealth.com/advisor/brian-jellig): Advisor profile page for Brian Jellig.
+- [Brian Mills](https://www.savvywealth.com/advisor/brian-mills): Advisor profile page for Brian Mills.
+- [Brian Mocogni](https://www.savvywealth.com/advisor/brian-mocogni): Advisor profile page for Brian Mocogni.
+- [Bruce Larsen](https://www.savvywealth.com/advisor/bruce-larsen): Advisor profile page for Bruce Larsen.
+- [Catalina Franco-Cicero](https://www.savvywealth.com/advisor/catalina-franco-cicero): Advisor profile page for Catalina Franco-Cicero.
+- [Chase Austin](https://www.savvywealth.com/advisor/chase-austin): Advisor profile page for Chase Austin.
+- [Chris Benda](https://www.savvywealth.com/advisor/chris-benda): Advisor profile page for Chris Benda.
+- [Chris Ornee](https://www.savvywealth.com/advisor/chris-ornee): Advisor profile page for Chris Ornee.
+- [Chris Stennett](https://www.savvywealth.com/advisor/chris-stennett): Advisor profile page for Chris Stennett.
+- [Cindy Alvarez](https://www.savvywealth.com/advisor/cindy-alvarez): Advisor profile page for Cindy Alvarez.
+- [Clint Seefeldt](https://www.savvywealth.com/advisor/clint-seefeldt): Advisor profile page for Clint Seefeldt.
+- [Colin Farr](https://www.savvywealth.com/advisor/colin-farr): Advisor profile page for Colin Farr.
+- [Conrad Levesque](https://www.savvywealth.com/advisor/conrad-levesque): Advisor profile page for Conrad Levesque.
+- [Craig Austad](https://www.savvywealth.com/advisor/craig-austad): Advisor profile page for Craig Austad.
+- [Dan Brady](https://www.savvywealth.com/advisor/dan-brady): Advisor profile page for Dan Brady.
+- [Dan Perrino](https://www.savvywealth.com/advisor/dan-perrino): Advisor profile page for Dan Perrino.
+- [Daniel Myers](https://www.savvywealth.com/advisor/daniel-myers): Advisor profile page for Daniel Myers.
+- [Dave Sharpe](https://www.savvywealth.com/advisor/dave-sharpe): Advisor profile page for Dave Sharpe.
+- [David Gottlieb](https://www.savvywealth.com/advisor/david-gottlieb): Advisor profile page for David Gottlieb.
+- [Derek Williams](https://www.savvywealth.com/advisor/derek-williams): Advisor profile page for Derek Williams.
+- [Drew Martino](https://www.savvywealth.com/advisor/drew-martino): Advisor profile page for Drew Martino.
+- [Dustin Parsons](https://www.savvywealth.com/advisor/dustin-parsons): Advisor profile page for Dustin Parsons.
+- [Dustin Roberts](https://www.savvywealth.com/advisor/dustin-roberts): Advisor profile page for Dustin Roberts.
+- [Dustin Thomas](https://www.savvywealth.com/advisor/dustin-thomas): Advisor profile page for Dustin Thomas.
+- [Ed Wildermuth](https://www.savvywealth.com/advisor/ed-wildermuth): Advisor profile page for Ed Wildermuth.
+- [Elijah Pell](https://www.savvywealth.com/advisor/elijah-pell): Advisor profile page for Elijah Pell.
+- [Eric Kirste](https://www.savvywealth.com/advisor/eric-kirste): Advisor profile page for Eric Kirste.
+- [Eric Passin](https://www.savvywealth.com/advisor/eric-passin): Advisor profile page for Eric Passin.
+- [Erik Midas](https://www.savvywealth.com/advisor/erik-midas): Advisor profile page for Erik Midas.
+- [Erin Niehaus](https://www.savvywealth.com/advisor/erin-niehaus): Advisor profile page for Erin Niehaus.
+- [Eugene Hoover](https://www.savvywealth.com/advisor/eugene-hoover): Advisor profile page for Eugene Hoover.
+- [Evan Melching](https://www.savvywealth.com/advisor/evan-melching): Advisor profile page for Evan Melching.
+- [Frank Remund](https://www.savvywealth.com/advisor/frank-remund): Advisor profile page for Frank Remund.
+- [Greg Kirwan](https://www.savvywealth.com/advisor/greg-kirwan): Advisor profile page for Greg Kirwan.
+- [Hunter Cloud](https://www.savvywealth.com/advisor/hunter-cloud): Advisor profile page for Hunter Cloud.
+- [J. Nick McLaughlin](https://www.savvywealth.com/advisor/j-nick-mclaughlin): Advisor profile page for J. Nick McLaughlin.
+- [Jack Fitzpatrick](https://www.savvywealth.com/advisor/jack-fitzpatrick): Advisor profile page for Jack Fitzpatrick.
+- [Jacob LaRue](https://www.savvywealth.com/advisor/jacob-larue): Advisor profile page for Jacob LaRue.
+- [Jacob Ray](https://www.savvywealth.com/advisor/jacob-ray): Advisor profile page for Jacob Ray.
+- [James Ulrick](https://www.savvywealth.com/advisor/james-ulrick): Advisor profile page for James Ulrick.
+- [Janelle van Meel](https://www.savvywealth.com/advisor/janelle-van-meel): Advisor profile page for Janelle van Meel.
+- [Jared Tanimoto](https://www.savvywealth.com/advisor/jared-tanimoto): Advisor profile page for Jared Tanimoto.
+- [Jason Craine](https://www.savvywealth.com/advisor/jason-craine): Advisor profile page for Jason Craine.
+- [Jeff Brimhall](https://www.savvywealth.com/advisor/jeff-brimhall): Advisor profile page for Jeff Brimhall.
+- [Jeff Peller](https://www.savvywealth.com/advisor/jeff-peller): Advisor profile page for Jeff Peller.
+- [Jennifer Gugliemotto](https://www.savvywealth.com/advisor/jennifer-gugliemotto): Advisor profile page for Jennifer Gugliemotto.
+- [John Khoury](https://www.savvywealth.com/advisor/john-khoury): Advisor profile page for John Khoury.
+- [Jonathon Merickel](https://www.savvywealth.com/advisor/jonathon-merickel): Advisor profile page for Jonathon Merickel.
+- [Jordan Jensen](https://www.savvywealth.com/advisor/jordan-jensen): Advisor profile page for Jordan Jensen.
+- [Jordan Lauber](https://www.savvywealth.com/advisor/jordan-lauber): Advisor profile page for Jordan Lauber.
+- [Josh Bergman](https://www.savvywealth.com/advisor/josh-bergman): Advisor profile page for Josh Bergman.
+- [Joshua Barone](https://www.savvywealth.com/advisor/joshua-barone): Advisor profile page for Joshua Barone.
+- [Joshua Joffe](https://www.savvywealth.com/advisor/joshua-joffe): Advisor profile page for Joshua Joffe.
+- [Justin Ericksen](https://www.savvywealth.com/advisor/justin-ericksen): Advisor profile page for Justin Ericksen.
+- [Karsten Walker](https://www.savvywealth.com/advisor/karsten-walker): Advisor profile page for Karsten Walker.
+- [Keith Hamberg](https://www.savvywealth.com/advisor/keith-hamberg): Advisor profile page for Keith Hamberg.
+- [Ken Bobadilla](https://www.savvywealth.com/advisor/ken-bobadilla): Advisor profile page for Ken Bobadilla.
+- [Kristin V. Dunlevy](https://www.savvywealth.com/advisor/kristin-v-dunlevy): Advisor profile page for Kristin V. Dunlevy.
+- [Lee Levy](https://www.savvywealth.com/advisor/lee-levy): Advisor profile page for Lee Levy.
+- [Lindsey K. Leaverton](https://www.savvywealth.com/advisor/lindsey-k-leaverton): Advisor profile page for Lindsey K. Leaverton.
+- [Lindsey Lewis](https://www.savvywealth.com/advisor/lindsey-lewis): Advisor profile page for Lindsey Lewis.
+- [Louis Green](https://www.savvywealth.com/advisor/louis-green): Advisor profile page for Louis Green.
+- [Luis Miletti Jr.](https://www.savvywealth.com/advisor/luis-miletti-jr): Advisor profile page for Luis Miletti Jr.
+- [Luis Rosa](https://www.savvywealth.com/advisor/luis-rosa): Advisor profile page for Luis Rosa.
+- [Luis Villavicencio](https://www.savvywealth.com/advisor/luis-villavicencio): Advisor profile page for Luis Villavicencio.
+- [Mark Tassie](https://www.savvywealth.com/advisor/mark-tassie): Advisor profile page for Mark Tassie.
+- [Matt Nelson](https://www.savvywealth.com/advisor/matt-nelson): Advisor profile page for Matt Nelson.
+- [Matt Powell](https://www.savvywealth.com/advisor/matt-powell): Advisor profile page for Matt Powell.
+- [Matthew Conley](https://www.savvywealth.com/advisor/matthew-conley): Advisor profile page for Matthew Conley.
+- [Matthew Finley](https://www.savvywealth.com/advisor/matthew-finley): Advisor profile page for Matthew Finley.
+- [Michael Gaynor](https://www.savvywealth.com/advisor/michael-gaynor): Advisor profile page for Michael Gaynor.
+- [Michael Johnson](https://www.savvywealth.com/advisor/michael-johnson): Advisor profile page for Michael Johnson.
+- [Michael Lambrecht](https://www.savvywealth.com/advisor/michael-lambrecht): Advisor profile page for Michael Lambrecht.
+- [Michael Most](https://www.savvywealth.com/advisor/michael-most): Advisor profile page for Michael Most.
+- [Michaela Sullivan](https://www.savvywealth.com/advisor/michaela-sullivan): Advisor profile page for Michaela Sullivan.
+- [Mike Smith](https://www.savvywealth.com/advisor/mike-smith): Advisor profile page for Mike Smith.
+- [Nathan Mirizzi](https://www.savvywealth.com/advisor/nathan-mirizzi): Advisor profile page for Nathan Mirizzi.
+- [Nate Kunkel](https://www.savvywealth.com/advisor/nate-kunkel): Advisor profile page for Nate Kunkel.
+- [Nick Swanson](https://www.savvywealth.com/advisor/nick-swanson): Advisor profile page for Nick Swanson.
+- [Patrick Conroy](https://www.savvywealth.com/advisor/patrick-conroy): Advisor profile page for Patrick Conroy.
+- [Patrick Traverse](https://www.savvywealth.com/advisor/patrick-traverse): Advisor profile page for Patrick Traverse.
+- [Quintin Sharpe](https://www.savvywealth.com/advisor/quintin-sharpe): Advisor profile page for Quintin Sharpe.
+- [Robert Barone](https://www.savvywealth.com/advisor/robert-barone): Advisor profile page for Robert Barone.
+- [Ryan Bond](https://www.savvywealth.com/advisor/ryan-bond): Advisor profile page for Ryan Bond.
+- [Ryan Garland](https://www.savvywealth.com/advisor/ryan-garland): Advisor profile page for Ryan Garland.
+- [Ryan Meda](https://www.savvywealth.com/advisor/ryan-meda): Advisor profile page for Ryan Meda.
+- [Sam Saleh](https://www.savvywealth.com/advisor/sam-saleh): Advisor profile page for Sam Saleh.
+- [Sandee Mapp](https://www.savvywealth.com/advisor/sandee-mapp): Advisor profile page for Sandee Mapp.
+- [Sara Gelsheimer](https://www.savvywealth.com/advisor/sara-gelsheimer): Advisor profile page for Sara Gelsheimer.
+- [Scott Eichler](https://www.savvywealth.com/advisor/scott-eichler): Advisor profile page for Scott Eichler.
+- [Scott Jensen](https://www.savvywealth.com/advisor/scott-jensen): Advisor profile page for Scott Jensen.
+- [Sean O'Connor](https://www.savvywealth.com/advisor/sean-oconnor): Advisor profile page for Sean O'Connor.
+- [Stanford McCullough](https://www.savvywealth.com/advisor/stanford-mccullough): Advisor profile page for Stanford McCullough.
+- [Stephanie Gumm](https://www.savvywealth.com/advisor/stephanie-gumm): Advisor profile page for Stephanie Gumm.
+- [Steve Grogan](https://www.savvywealth.com/advisor/steve-grogan): Advisor profile page for Steve Grogan.
+- [Steve Marcou](https://www.savvywealth.com/advisor/steve-marcou): Advisor profile page for Steve Marcou.
+- [Steve Meier](https://www.savvywealth.com/advisor/steve-meier): Advisor profile page for Steve Meier.
+- [Steven Harp](https://www.savvywealth.com/advisor/steven-harp): Advisor profile page for Steven Harp.
+- [Susan Jones](https://www.savvywealth.com/advisor/susan-jones): Advisor profile page for Susan Jones.
+- [Todd Juenger](https://www.savvywealth.com/advisor/todd-juenger): Advisor profile page for Todd Juenger.
+- [Trent Grzegorczyk](https://www.savvywealth.com/advisor/trent-grzegorczyk): Advisor profile page for Trent Grzegorczyk.
+- [Tyson Lokke](https://www.savvywealth.com/advisor/tyson-lokke): Advisor profile page for Tyson Lokke.
+- [Zack Smith](https://www.savvywealth.com/advisor/zack-smith): Advisor profile page for Zack Smith.
+
+## Blog & Resources
+
+- [Blog](https://www.savvywealth.com/blog): Financial insights, advisor perspectives, market commentary, and planning guides authored by Savvy advisors and the investment team
+- [Introducing Savvy Intelligence](https://www.savvywealth.com/blog-posts/introducing-savvy-intelligence): Announcement of Savvy's AI advisor workspace (April 2026)
+- [Savvy Portfolio Perspectives — May 2026](https://www.savvywealth.com/blog-posts/savvy-portfolio-perspectives-may-2026): Monthly market and portfolio outlook from CIO Anshul Sharma
+- [IRA vs. 401(k): A Comparison of Retirement Savings Vehicles](https://www.savvywealth.com/blog-posts/ira-vs-401k-comparison): Guide comparing tax treatment, contribution limits, and withdrawal rules
+- [Direct Indexing vs ETFs](https://www.savvywealth.com/blog-posts/direct-indexing-vs-etfs-a-better-option-for-high-net-worth-investors): When direct indexing outperforms ETFs for high-net-worth investors
+- [Tax Diversification: Roth, 401(k), and Brokerage Accounts](https://www.savvywealth.com/blog-posts/tax-diversification-guide): Unified strategy across account types to reduce lifetime tax burden
+- [Estate Planning Strategies for High-Net-Worth Individuals](https://www.savvywealth.com/blog-posts/estate-planning-strategies): Trusts, gifting, and multi-generational wealth transfer strategies
+- [Roth IRA vs. Traditional IRA](https://www.savvywealth.com/blog-posts/roth-vs-traditional-ira): Decision framework for choosing between pre-tax and post-tax retirement accounts
+- [Financial Planning in Your 40s](https://www.savvywealth.com/blog-posts/financial-planning-40s): Guide to financial priorities, retirement catch-up, and estate planning for those in their 40s
+- [How to Diversify Your Investment Portfolio](https://www.savvywealth.com/blog-posts/how-to-diversify-your-investment-portfolio): Principles of diversification across asset classes, geographies, and sectors
+
+## Legal & Compliance
+
+- [Form ADV](https://www.savvywealth.com/legal): SEC-required disclosure document for Savvy Advisors, Inc. (CRD #318493); details investment advisory services, fees, conflicts of interest, and disciplinary history
+- [Form CRS (Client Relationship Summary)](https://www.savvywealth.com/legal): Summary of services, fees, conflicts, and standards of conduct for retail investors
+- [Privacy Policy](https://www.savvywealth.com/privacy-policy): How Savvy collects, uses, and protects client and user data
+- [Terms of Service](https://www.savvywealth.com/terms-of-service): Terms governing use of Savvy's website and platform
+
+## Optional
+
+- [April 2026 Global Markets Recap](https://www.savvywealth.com/blog-posts/april-2026-global-markets-recap): Monthly market summary by CIO Anshul Sharma
+- [March 2026 Global Markets Recap](https://www.savvywealth.com/blog-posts/march-2026-global-markets-recap): Monthly market summary
+- [February 2026 Global Markets Recap](https://www.savvywealth.com/blog-posts/february-2026-global-markets-recap): Monthly market summary
+- [Per Stirpes: Estate Planning Guide](https://www.savvywealth.com/blog-posts/per-stirpes-estate-planning): Comprehensive guide to per stirpes beneficiary designations
+- [Irrevocable Trusts: Pros and Cons](https://www.savvywealth.com/blog-posts/pros-and-cons-of-irrevocable-trusts): What clients gain and give up with irrevocable trust structures
+- [Understanding Trusts](https://www.savvywealth.com/blog-posts/trust-planning): Types of trusts, beneficiaries, and when each structure applies
+- [What is a Bond?](https://www.savvywealth.com/blog-posts/what-is-a-bond-corporate-municipal-treasury-government-bonds): Plain-language guide to corporate, municipal, treasury, and government bonds
+- [Compound Interest Guide](https://www.savvywealth.com/blog-posts/compound-interest-guide): How compound interest works and why it matters for long-term wealth building
+- [Donor-Advised Funds](https://www.savvywealth.com/blog-posts/donor-advised-funds): Pros, cons, and use cases for DAFs in charitable giving strategies
+- [SEP vs. SIMPLE IRA Guide](https://www.savvywealth.com/blog-posts/sep-vs-simple-ira-guide): Employee benefit plan comparison for small business owners
+- [Stock Market Volatility: How to Keep Your Cool](https://www.savvywealth.com/blog-posts/stock-market-volatility): Behavioral finance guidance for clients during market downturns
+- [Financial Planning for Couples](https://www.savvywealth.com/blog-posts/financial-planning-for-couples): Pre- and post-marriage financial planning guide
+- [Financial Planning for New Parents](https://www.savvywealth.com/blog-posts/financial-planning-for-parents): Estate planning, insurance, and savings priorities for expectant and new parents
+- [Mid-Year Tax Planning Strategies](https://www.savvywealth.com/blog-posts/mid-year-tax-planning-strategies-reduce-tax-bill): Proactive strategies to reduce next year's tax bill
+- [How Are Dividends Taxed?](https://www.savvywealth.com/blog-posts/how-are-dividends-taxed): Qualified vs. ordinary dividend tax treatment explained
+- [Schedule K-1 Tax Form Guide](https://www.savvywealth.com/blog-posts/schedule-k1-tax-form-guide): What a K-1 is, who receives it, and how to report it
+- [Financial Advisor Marketing Guide](https://www.savvywealth.com/blog-posts/financial-advisor-marketing-guide): Comprehensive advisor marketing strategies, plans, tools, and templates
+- [SEO for Financial Advisors](https://www.savvywealth.com/blog-posts/seo-for-financial-advisors): Organic growth guide for RIAs and independent advisors
+- [LinkedIn Marketing for Financial Advisors](https://www.savvywealth.com/blog-posts/linkedin-marketing-for-financial-advisors): Building authority and attracting high-value clients on LinkedIn
+- [CRM for Financial Advisors](https://www.savvywealth.com/blog-posts/crm-for-financial-advisors): Guide to choosing and implementing a CRM system for advisory practices
+- [Why Heirs Fire Their Parents' Financial Advisor](https://www.savvywealth.com/blog-posts/why-heirs-fire-financial-advisor): Intergenerational wealth transfer and client retention research
+- [The Pros and Cons of Starting Your Own RIA](https://www.savvywealth.com/blog-posts/starting-fa-or-ria): Decision framework for advisors considering independence
+- [UVA Economic Insights: FOMC Minutes Analysis](https://www.savvywealth.com/blog-posts/a-fractured-consensus-forensic-analysis-of-the-april-2026-fomc-minutes): Academic analysis of April 2026 Fed meeting minutes
+- [UVA Economic Insights: AI Infrastructure Capital Cycle](https://www.savvywealth.com/blog-posts/hyperscalers-vs-telcos-a-capital-cycle-analysis-of-the-ai-infrastructure-market): Hyperscalers vs. telcos in AI infrastructure investment

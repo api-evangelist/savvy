@@ -1,8 +1,30 @@
 aid: savvy
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/savvy.png
 name: Savvy
-description: Savvy is a company surfaced as a portfolio company of canaan-partners, index-ventures and
-  added to the API Evangelist network as a stub for enrichment. This profile is a lead awaiting the enrichment
-  pipeline.
+description: >-
+  Savvy (Savvy Advisors, Inc.) is a technology-driven, SEC-registered investment
+  advisory firm founded in 2021 and headquartered in New York, NY. It combines
+  licensed fiduciary financial advisors with proprietary technology — including
+  Savvy Intelligence, an AI workspace for advisors — to deliver personalized
+  wealth management for high-net-worth individuals and independent financial
+  advisors. Savvy manages $5B+ in assets across 100+ advisors in 30+ U.S.
+  locations, custodying at Fidelity and Charles Schwab. The firm serves two
+  audiences: clients seeking wealth management (financial planning, investment
+  management, direct indexing, tax optimization, retirement, trust and estate
+  planning) and advisors looking to join or build a practice on its platform.
+  Savvy publishes no public developer API; this profile captures its identity,
+  domain security posture, and the verbatim /llms.txt it exposes for agents.
 url: https://raw.githubusercontent.com/api-evangelist/savvy/refs/heads/main/apis.yml
 x-type: company
 x-source: vc-portfolio
@@ -13,9 +35,16 @@ x-tier: stub
 x-tier-reason: portfolio-lead
 specificationVersion: '0.20'
 created: '2026-07-17'
-modified: '2026-07-17'
+modified: '2026-07-21'
 tags:
 - Company
+- Wealth Management
+- Financial Services
+- Investment Management
+- Financial Advisors
+- Financial Planning
+- Fintech
+- Registered Investment Advisor
 apis: []
 maintainers:
 - FN: Kin Lane
@@ -25,3 +54,22 @@ maintainers:
 common:
 - type: Website
   url: https://www.savvywealth.com/
+- type: About
+  url: https://www.savvywealth.com/about
+- type: Blog
+  url: https://www.savvywealth.com/blog
+- type: SignUp
+  url: https://www.savvywealth.com/demo
+- type: TermsOfService
+  url: https://www.savvywealth.com/terms-of-service
+- type: PrivacyPolicy
+  url: https://www.savvywealth.com/privacy-policy
+- type: LLMsTxt
+  url: llms/savvy-llms.txt
+- type: DomainSecurity
+  url: security/savvy-domain-security.yml
+x-enrichment:
+  date: '2026-07-21'
+  status: enriched
+  artifacts_added: 3
+  pass: local-v1
